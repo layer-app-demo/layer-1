@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/layer-app-demo/layer-1/issues"
   },
-  "homepage": "https://github.com/layer-app-demo/layer-1#readme"
+  "homepage": "https://github.com/layer-app-demo/layer-1#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
 }
